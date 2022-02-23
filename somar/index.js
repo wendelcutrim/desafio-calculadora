@@ -1,5 +1,5 @@
 function somar(numeroA, numeroB){
-    return numeroA + numeroB
+    return console.log(numeroA + numeroB)
 }
 
 module.exports = somar
