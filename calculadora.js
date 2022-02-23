@@ -32,3 +32,4 @@ console.log(testeDividir);
 testeDividir = dividir(30,0);
 console.log("Utilizando a função divisão, tentando dividir por 0: ");
 console.log(testeDividir);
+
